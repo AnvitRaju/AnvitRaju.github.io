@@ -39,7 +39,7 @@ hr {
   margin: 50px auto 50px;
 }
 
-.top-container {
+#top-container {
   /*width: 200px;
       height: 200px;*/
   background-color: #e4f9f5;
@@ -64,13 +64,6 @@ hr {
   position: absolute;
   left: 300px;
   bottom: 300px;
-}
-
-.profile-pic {
-  width: 200px;
-  height: auto;
-  border-radius: 50%;
-  margin-top: 40px;
 }
 
 .coding-pic {
